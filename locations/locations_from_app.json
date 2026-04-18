@@ -1,9 +1,12 @@
 [
     {
+        "name": ""
+    },
+    {
         "name": "",
         "sections": [
             {
-                "name": "Elixir [Riku]",
+                "name": "Elixir 2 [Riku]",
                 "access_rules": ["world_the_world_that_never_was_riku"]
             }
         ],
