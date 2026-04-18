@@ -9,11 +9,15 @@
     "variants": {
         "standard": {
             "display_name": "Map Tracker",
-            "flags": ["ap"]
+            "flags": [
+                "ap"
+            ]
         },
         "var_itemsonly": {
             "display_name": "Items Only",
-            "flags": ["ap"]
+            "flags": [
+                "ap"
+            ]
         }
     }
 }
