@@ -1,0 +1,1738 @@
+[
+    {
+        "name": "Victory",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "victory"
+    },
+    {
+        "name": "Recusant Sigil",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "recusant_sigil"
+    },
+    {
+        "name": "Instant Drop",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "instant_drop"
+    },
+    {
+        "name": "HP Increase [Sora]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 11,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "hp_increase_sora"
+    },
+    {
+        "name": "Deck Capacity Increase [Sora]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "deck_capacity_increase_sora"
+    },
+    {
+        "name": "Strength Increase [Sora]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "strength_increase_sora"
+    },
+    {
+        "name": "Magic Increase [Sora]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "magic_increase_sora"
+    },
+    {
+        "name": "Defense Increase [Sora]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "defense_increase_sora"
+    },
+    {
+        "name": "HP Increase [Riku]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 11,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "hp_increase_riku"
+    },
+    {
+        "name": "Deck Capacity Increase [Riku]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "deck_capacity_increase_riku"
+    },
+    {
+        "name": "Strength Increase [Riku]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "strength_increase_riku"
+    },
+    {
+        "name": "Magic Increase [Riku]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "magic_increase_riku"
+    },
+    {
+        "name": "Defense Increase [Riku]",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 18,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "defense_increase_riku"
+    },
+    {
+        "name": "Skull Noise [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "skull_noise_sora"
+    },
+    {
+        "name": "Ultima Weapon [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ultima_weapon_sora"
+    },
+    {
+        "name": "Guardian Bell [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "guardian_bell_sora"
+    },
+    {
+        "name": "Ferris Gear [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ferris_gear_sora"
+    },
+    {
+        "name": "Dual Disc [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dual_disc_sora"
+    },
+    {
+        "name": "All for One [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "all_for_one_sora"
+    },
+    {
+        "name": "Counterpoint [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "counterpoint_sora"
+    },
+    {
+        "name": "Sweet Dreams [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sweet_dreams_sora"
+    },
+    {
+        "name": "Unbound [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "unbound_sora"
+    },
+    {
+        "name": "Divewing [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "divewing_sora"
+    },
+    {
+        "name": "End of Pain [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "end_of_pain_sora"
+    },
+    {
+        "name": "Knockout Punch [Sora]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "knockout_punch_sora"
+    },
+    {
+        "name": "Skull Noise [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "skull_noise_riku"
+    },
+    {
+        "name": "Guardian Bell [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "guardian_bell_riku"
+    },
+    {
+        "name": "Ocean's Rage [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "oceans_rage_riku"
+    },
+    {
+        "name": "Dual Disc [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dual_disc_riku"
+    },
+    {
+        "name": "All for One [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "all_for_one_riku"
+    },
+    {
+        "name": "Counterpoint [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "counterpoint_riku"
+    },
+    {
+        "name": "Sweet Dreams [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sweet_dreams_riku"
+    },
+    {
+        "name": "Ultima Weapon [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ultima_weapon_riku"
+    },
+    {
+        "name": "Unbound [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "unbound_riku"
+    },
+    {
+        "name": "Divewing [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "divewing_riku"
+    },
+    {
+        "name": "End of Pain [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "end_of_pain_riku"
+    },
+    {
+        "name": "Knockout Punch [Riku]",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "knockout_punch_riku"
+    },
+    {
+        "name": "Pole Spin",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "pole_spin"
+    },
+    {
+        "name": "Wall Kick",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "wall_kick"
+    },
+    {
+        "name": "Super Jump",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "super_jump"
+    },
+    {
+        "name": "Pole Swing",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "pole_swing"
+    },
+    {
+        "name": "Rail Slide",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "rail_slide"
+    },
+    {
+        "name": "Flowmotion",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "flowmotion"
+    },
+    {
+        "name": "High Jump",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "high_jump"
+    },
+    {
+        "name": "Slide Roll",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "slide_roll"
+    },
+    {
+        "name": "Dark Roll",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_roll"
+    },
+    {
+        "name": "Air Slide",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "air_slide"
+    },
+    {
+        "name": "Sonic Impact",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sonic_impact"
+    },
+    {
+        "name": "Double Impact",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "double_impact"
+    },
+    {
+        "name": "Glide",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "glide"
+    },
+    {
+        "name": "Superglide",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "superglide"
+    },
+    {
+        "name": "Shadow Slide",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "shadow_slide"
+    },
+    {
+        "name": "Double Flight",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "double_flight"
+    },
+    {
+        "name": "Wake-Up Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "wake_up_block"
+    },
+    {
+        "name": "Link Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "link_block"
+    },
+    {
+        "name": "Sliding Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sliding_block"
+    },
+    {
+        "name": "Dark Barrier",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_barrier"
+    },
+    {
+        "name": "Counter Rush",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "counter_rush"
+    },
+    {
+        "name": "Counter Aura",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "counter_aura"
+    },
+    {
+        "name": "Shadow Strike",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "shadow_strike"
+    },
+    {
+        "name": "Payback Raid",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "payback_raid"
+    },
+    {
+        "name": "Payback Blast",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "payback_blast"
+    },
+    {
+        "name": "Aerial Recovery",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "aerial_recovery"
+    },
+    {
+        "name": "Steep Climb",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "steep_climb"
+    },
+    {
+        "name": "Rapid Descent",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "rapid_descent"
+    },
+    {
+        "name": "Sliding Sidewinder",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sliding_sidewinder"
+    },
+    {
+        "name": "Sliding Crescent",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sliding_crescent"
+    },
+    {
+        "name": "HP Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "hp_boost"
+    },
+    {
+        "name": "Fire Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "fire_boost"
+    },
+    {
+        "name": "Blizzard Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "blizzard_boost"
+    },
+    {
+        "name": "Thunder Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "thunder_boost"
+    },
+    {
+        "name": "Water Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "water_boost"
+    },
+    {
+        "name": "Cure Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "cure_boost"
+    },
+    {
+        "name": "Item Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "item_boost"
+    },
+    {
+        "name": "Attack Haste",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "attack_haste"
+    },
+    {
+        "name": "Magic Haste",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "magic_haste"
+    },
+    {
+        "name": "Attack Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "attack_boost"
+    },
+    {
+        "name": "Magic Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "magic_boost"
+    },
+    {
+        "name": "Defense Boost",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "defense_boost"
+    },
+    {
+        "name": "Fire Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "fire_screen"
+    },
+    {
+        "name": "Blizzard Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "blizzard_screen"
+    },
+    {
+        "name": "Thunder Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "thunder_screen"
+    },
+    {
+        "name": "Water Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "water_screen"
+    },
+    {
+        "name": "Dark Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "dark_screen"
+    },
+    {
+        "name": "Light Screen",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "light_screen"
+    },
+    {
+        "name": "Mini Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "mini_block"
+    },
+    {
+        "name": "Blindness Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blindness_block"
+    },
+    {
+        "name": "Confusion Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "confusion_block"
+    },
+    {
+        "name": "Bind Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "bind_block"
+    },
+    {
+        "name": "Poison Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "poison_block"
+    },
+    {
+        "name": "Slow Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "slow_block"
+    },
+    {
+        "name": "Sleep Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sleep_block"
+    },
+    {
+        "name": "Stop Block",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "stop_block"
+    },
+    {
+        "name": "Reload Boost",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "reload_boost"
+    },
+    {
+        "name": "Defender",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "defender"
+    },
+    {
+        "name": "Combo Plus",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "combo_plus"
+    },
+    {
+        "name": "Air Combo Plus",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 3,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "air_combo_plus"
+    },
+    {
+        "name": "Combo Master",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "combo_master"
+    },
+    {
+        "name": "EXP Boost",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "exp_boost"
+    },
+    {
+        "name": "EXP Walker",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "exp_walker"
+    },
+    {
+        "name": "Damage Syphon",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "damage_syphon"
+    },
+    {
+        "name": "Second Chance",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "second_chance"
+    },
+    {
+        "name": "Once More",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "once_more"
+    },
+    {
+        "name": "Leaf Bracer",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "leaf_bracer"
+    },
+    {
+        "name": "Treasure Magnet",
+        "type": "consumable",
+        "img": "images/items/consumable.png",
+        "max_quantity": 5,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_background": "#000000",
+        "overlay_font_size": 20,
+        "codes": "treasure_magnet"
+    },
+    {
+        "name": "Link Critical",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "link_critical"
+    },
+    {
+        "name": "Waking Dream",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "waking_dream"
+    },
+    {
+        "name": "Quick Blitz",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "quick_blitz"
+    },
+    {
+        "name": "Blizzard Edge",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blizzard_edge"
+    },
+    {
+        "name": "Dark Break",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_break"
+    },
+    {
+        "name": "Slot Edge",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "slot_edge"
+    },
+    {
+        "name": "Blitz",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blitz"
+    },
+    {
+        "name": "Meteor Crash",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "meteor_crash"
+    },
+    {
+        "name": "Spark Dive",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "spark_dive"
+    },
+    {
+        "name": "Poison Dive",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "poison_dive"
+    },
+    {
+        "name": "Drain Dive",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "drain_dive"
+    },
+    {
+        "name": "Sliding Dash",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sliding_dash"
+    },
+    {
+        "name": "Thunder Dash",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "thunder_dash"
+    },
+    {
+        "name": "Sonic Blade",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sonic_blade"
+    },
+    {
+        "name": "Dark Aura",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_aura"
+    },
+    {
+        "name": "Zantetsuken",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zantetsuken"
+    },
+    {
+        "name": "Strike Raid",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "strike_raid"
+    },
+    {
+        "name": "Spark Raid",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "spark_raid"
+    },
+    {
+        "name": "Circle Raid",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "circle_raid"
+    },
+    {
+        "name": "Aerial Slam",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "aerial_slam"
+    },
+    {
+        "name": "Ars Arcanum",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ars_arcanum"
+    },
+    {
+        "name": "Dark Splicer",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_splicer"
+    },
+    {
+        "name": "Gravity Strike",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "gravity_strike"
+    },
+    {
+        "name": "Confusing Strike",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "confusing_strike"
+    },
+    {
+        "name": "Tornado Strike",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tornado_strike"
+    },
+    {
+        "name": "Prism Windmill",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "prism_windmill"
+    },
+    {
+        "name": "Timestorm",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "timestorm"
+    },
+    {
+        "name": "Fire Windmill",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "fire_windmill"
+    },
+    {
+        "name": "Icebreaker",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "icebreaker"
+    },
+    {
+        "name": "Shadowbreaker",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "shadowbreaker"
+    },
+    {
+        "name": "Magnet Spiral",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "magnet_spiral"
+    },
+    {
+        "name": "Salvation",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "salvation"
+    },
+    {
+        "name": "Limit Storm",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "limit_storm"
+    },
+    {
+        "name": "Collision Magnet",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "collision_magnet"
+    },
+    {
+        "name": "Sacrifice",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sacrifice"
+    },
+    {
+        "name": "Break Time",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "break_time"
+    },
+    {
+        "name": "Fire",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "fire"
+    },
+    {
+        "name": "Fira",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "fira"
+    },
+    {
+        "name": "Firaga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "firaga"
+    },
+    {
+        "name": "Dark Firaga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "dark_firaga"
+    },
+    {
+        "name": "Firaga Burst",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "firaga_burst"
+    },
+    {
+        "name": "Mega Flare",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "mega_flare"
+    },
+    {
+        "name": "Blizzard",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blizzard"
+    },
+    {
+        "name": "Blizzara",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blizzara"
+    },
+    {
+        "name": "Blizzaga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blizzaga"
+    },
+    {
+        "name": "Icicle Splitter",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "icicle_splitter"
+    },
+    {
+        "name": "Deep Freeze",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "deep_freeze"
+    },
+    {
+        "name": "Ice Barrage",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ice_barrage"
+    },
+    {
+        "name": "Thunder",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "thunder"
+    },
+    {
+        "name": "Thundara",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "thundara"
+    },
+    {
+        "name": "Thundaga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "thundaga"
+    },
+    {
+        "name": "Triple Plasma",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "triple_plasma"
+    },
+    {
+        "name": "Cure",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "cure"
+    },
+    {
+        "name": "Cura",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "cura"
+    },
+    {
+        "name": "Curaga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "curaga"
+    },
+    {
+        "name": "Esuna",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "esuna"
+    },
+    {
+        "name": "Zero Gravity",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zero_gravity"
+    },
+    {
+        "name": "Zero Gravira",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zero_gravira"
+    },
+    {
+        "name": "Zero Graviga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zero_graviga"
+    },
+    {
+        "name": "Zero Graviza",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zero_graviza"
+    },
+    {
+        "name": "Balloon",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "balloon"
+    },
+    {
+        "name": "Balloonra",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "balloonra"
+    },
+    {
+        "name": "Balloonga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "balloonga"
+    },
+    {
+        "name": "Spark",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "spark"
+    },
+    {
+        "name": "Sparkra",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sparkra"
+    },
+    {
+        "name": "Sparkga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sparkga"
+    },
+    {
+        "name": "Faith",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "faith"
+    },
+    {
+        "name": "Tornado",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tornado"
+    },
+    {
+        "name": "Meteor",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "meteor"
+    },
+    {
+        "name": "Mini",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "mini"
+    },
+    {
+        "name": "Blackout",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "blackout"
+    },
+    {
+        "name": "Time Bomb",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "time_bomb"
+    },
+    {
+        "name": "Confuse",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "confuse"
+    },
+    {
+        "name": "Bind",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "bind"
+    },
+    {
+        "name": "Poison",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "poison"
+    },
+    {
+        "name": "Slow",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "slow"
+    },
+    {
+        "name": "Sleep",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sleep"
+    },
+    {
+        "name": "Sleepra",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sleepra"
+    },
+    {
+        "name": "Sleepga",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sleepga"
+    },
+    {
+        "name": "Stop",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "stop"
+    },
+    {
+        "name": "Vanish",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "vanish"
+    },
+    {
+        "name": "La Cite des Cloches [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/La Cité des Cloches.png",
+        "codes": "world_la_cite_des_cloches_sora"
+    },
+    {
+        "name": "The Grid [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/The Grid.png",
+        "codes": "world_the_grid_sora"
+    },
+    {
+        "name": "Prankster's Paradise [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/Prankster's Paradise.png",
+        "codes": "world_pranksters_paradise_sora"
+    },
+    {
+        "name": "Country of the Musketeers [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/Country of the Musketeers.png",
+        "codes": "world_country_of_the_musketeers_sora"
+    },
+    {
+        "name": "Symphony of Sorcery [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/Symphony of Sorcery.png",
+        "codes": "world_symphony_of_sorcery_sora"
+    },
+    {
+        "name": "TWTNW [Sora]",
+        "type": "toggle",
+        "img": "images/items/worlds/The World That Never Was.png",
+        "codes": "world_the_world_that_never_was_sora"
+    },
+    {
+        "name": "La Cite des Cloches [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/La Cité des Cloches.png",
+        "codes": "world_la_cite_des_cloches_riku"
+    },
+    {
+        "name": "The Grid [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/The Grid.png",
+        "codes": "world_the_grid_riku"
+    },
+    {
+        "name": "Prankster's Paradise [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/Monstro.png",
+        "codes": "world_pranksters_paradise_riku"
+    },
+    {
+        "name": "Country of the Musketeers [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/Country of the Musketeers.png",
+        "codes": "world_country_of_the_musketeers_riku"
+    },
+    {
+        "name": "Symphony of Sorcery [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/Symphony of Sorcery.png",
+        "codes": "world_symphony_of_sorcery_riku"
+    },
+    {
+        "name": "TWTNW [Riku]",
+        "type": "toggle",
+        "img": "images/items/worlds/The World That Never Was.png",
+        "codes": "world_the_world_that_never_was_riku"
+    },
+    {
+        "name": "Traverse Town [Sora]",
+        "type": "progressive",
+        "stages": [
+            {
+                "name": "Traverse Town 1 [Sora]",
+                "img": "images/items/worlds/Traverse Town.png",
+                "codes": "world_traverse_town_sora"
+            },
+            {
+                "name": "Traverse Town 2 [Sora]",
+                "img": "images/items/worlds/Traverse Town.png",
+                "codes": "world_traverse_town_sora"
+            }
+        ]
+    },
+    {
+        "name": "Traverse Town [Riku]",
+        "type": "progressive",
+        "stages": [
+            {
+                "name": "Traverse Town 1 [Riku]",
+                "img": "images/items/worlds/Traverse Town.png",
+                "codes": "world_traverse_town_riku"
+            },
+            {
+                "name": "Traverse Town 2 [Riku]",
+                "img": "images/items/worlds/Traverse Town.png",
+                "codes": "world_traverse_town_riku"
+            }
+        ]
+    },
+    {
+        "name": "Meow Wow Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "meow_wow_recipe"
+    },
+    {
+        "name": "Tama Sheep Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tama_sheep_recipe"
+    },
+    {
+        "name": "Yoggy Ram Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "yoggy_ram_recipe"
+    },
+    {
+        "name": "Komory Bat Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "komory_bat_recipe"
+    },
+    {
+        "name": "Pricklemane Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "pricklemane_recipe"
+    },
+    {
+        "name": "Hebby Rep Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "hebby_rep_recipe"
+    },
+    {
+        "name": "Sir Kyroo Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sir_kyroo_recipe"
+    },
+    {
+        "name": "Toximander Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "toximander_recipe"
+    },
+    {
+        "name": "Fin Fatale Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "fin_fatale_recipe"
+    },
+    {
+        "name": "Tatsu Steed Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tatsu_steed_recipe"
+    },
+    {
+        "name": "Necho Cat Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "necho_cat_recipe"
+    },
+    {
+        "name": "Thunderaffe Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "thunderaffe_recipe"
+    },
+    {
+        "name": "Kooma Panda Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "kooma_panda_recipe"
+    },
+    {
+        "name": "Pegaslick Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "pegaslick_recipe"
+    },
+    {
+        "name": "Icequin Ace Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "icequin_ace_recipe"
+    },
+    {
+        "name": "Peepsta Hoo Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "peepsta_hoo_recipe"
+    },
+    {
+        "name": "Escarglow Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "escarglow_recipe"
+    },
+    {
+        "name": "KO Kabuto Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ko_kabuto_recipe"
+    },
+    {
+        "name": "Wheeflower Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "wheeflower_recipe"
+    },
+    {
+        "name": "Ghostabocky Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ghostabocky_recipe"
+    },
+    {
+        "name": "Zolephant Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "zolephant_recipe"
+    },
+    {
+        "name": "Juggle Pup Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "juggle_pup_recipe"
+    },
+    {
+        "name": "Halbird Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "halbird_recipe"
+    },
+    {
+        "name": "Staggerceps Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "staggerceps_recipe"
+    },
+    {
+        "name": "Fishbone Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "fishbone_recipe"
+    },
+    {
+        "name": "Flowbermeow Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "flowbermeow_recipe"
+    },
+    {
+        "name": "Cyber Yog Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "cyber_yog_recipe"
+    },
+    {
+        "name": "Chef Kyroo Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "chef_kyroo_recipe"
+    },
+    {
+        "name": "Lord Kyroo Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "lord_kyroo_recipe"
+    },
+    {
+        "name": "Tatsu Blaze Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tatsu_blaze_recipe"
+    },
+    {
+        "name": "Electricorn Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "electricorn_recipe"
+    },
+    {
+        "name": "Woeflower Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "woeflower_recipe"
+    },
+    {
+        "name": "Jestabocky Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "jestabocky_recipe"
+    },
+    {
+        "name": "Eaglider Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "eaglider_recipe"
+    },
+    {
+        "name": "Me Me Bunny Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "me_me_bunny_recipe"
+    },
+    {
+        "name": "Drill Sye Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "drill_sye_recipe"
+    },
+    {
+        "name": "Tyranto Rex Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tyranto_rex_recipe"
+    },
+    {
+        "name": "Majik Lapin Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "majik_lapin_recipe"
+    },
+    {
+        "name": "Cera Terror Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "cera_terror_recipe"
+    },
+    {
+        "name": "Skelterwild Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "skelterwild_recipe"
+    },
+    {
+        "name": "Ducky Goose Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ducky_goose_recipe"
+    },
+    {
+        "name": "Aura Lion Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "aura_lion_recipe"
+    },
+    {
+        "name": "Ryu Dragon Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ryu_dragon_recipe"
+    },
+    {
+        "name": "Drak Quack Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "drak_quack_recipe"
+    },
+    {
+        "name": "Keeba Tiger Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "keeba_tiger_recipe"
+    },
+    {
+        "name": "Meowjesty Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "meowjesty_recipe"
+    },
+    {
+        "name": "Sudo Neku Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "sudo_neku_recipe"
+    },
+    {
+        "name": "Frootz Cat Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "frootz_cat_recipe"
+    },
+    {
+        "name": "Ursa Circus Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "ursa_circus_recipe"
+    },
+    {
+        "name": "Kab Kannon Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "kab_kannon_recipe"
+    },
+    {
+        "name": "R&R Seal Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "r_and_r_seal_recipe"
+    },
+    {
+        "name": "Catanuki Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "catanuki_recipe"
+    },
+    {
+        "name": "Beatalike Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "beatalike_recipe"
+    },
+    {
+        "name": "Tubguin Ace Recipe",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "tubguin_ace_recipe"
+    },
+    {
+        "name": "Potion",
+        "type": "toggle",
+        "img": "images/items/toggle.png",
+        "codes": "potion"
+    }
+]

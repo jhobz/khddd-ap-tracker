@@ -1,0 +1,5921 @@
+[
+    {
+        "name": "Destiny Islands",
+        "children": [
+            {
+                "name": "Ursula Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Ursula Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: The Mark of Mastery Exam Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: The Mark of Mastery Exam Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Keyblades Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Keyblades Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Keyblade Masters Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Keyblade Masters Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Master Xehanort Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Master Xehanort Reward",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Traverse Town [Sora]",
+        "access_rules": ["world_traverse_town_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Traverse Town",
+                        "x": 150,
+                        "y": 150
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Dream Eaters Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Dream Eaters Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Heartless Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Heartless Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Hockomonkey Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Hockomonkey Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Hockomonkey Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Hockomonkey Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Skull Noise Reward",
+                "sections": [
+                    {
+                        "name": "Skull Noise Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Meow Wow Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Meow Wow Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "First District Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "First District Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Second District Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Balloon",
+                "sections": [
+                    {
+                        "name": "Second District Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Second District Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Third District Vibrant Fantasy",
+                "sections": [
+                    {
+                        "name": "Third District Vibrant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Third District Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Third District Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Fourth District Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Water Barrel",
+                "sections": [
+                    {
+                        "name": "Fourth District Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Fourth District Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Fourth District Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Fifth District Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Potion",
+                "sections": [
+                    {
+                        "name": "Fifth District Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Fifth District Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Balloon",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Intrepid Figment",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Intrepid Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Rampant Fantasy",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Rampant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Royal Cake",
+                "sections": [
+                    {
+                        "name": "Garden Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Garden Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Rampant Figment",
+                "sections": [
+                    {
+                        "name": "Garden Rampant Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Garden Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Potion",
+                "sections": [
+                    {
+                        "name": "Fourth District Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Fourth District Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District 2nd Potion",
+                "sections": [
+                    {
+                        "name": "Fourth District 2nd Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Balloon (Command)",
+                "sections": [
+                    {
+                        "name": "Fourth District Balloon (Command)",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Strike Raid",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Strike Raid",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Rampant Fantasy",
+                "sections": [
+                    {
+                        "name": "Post Office Rampant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Vibrant Fantasy",
+                "sections": [
+                    {
+                        "name": "Post Office Vibrant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Troubling Fantasy",
+                "sections": [
+                    {
+                        "name": "Post Office Troubling Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Spark",
+                "sections": [
+                    {
+                        "name": "Post Office Spark",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Paint Gun: Red",
+                "sections": [
+                    {
+                        "name": "Post Office Paint Gun: Red",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Potion",
+                "sections": [
+                    {
+                        "name": "Post Office Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Post Office Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Post Office Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Traverse Town [Riku]",
+        "access_rules": ["world_traverse_town_riku"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Komory Bat Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Komory Bat Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Keyblade War Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Keyblade War Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Keyblade War Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Keyblade War Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Kingdom Hearts Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Kingdom Hearts Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Keyblade Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Keyblade Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rescue Shiki Bonus Slot",
+                "sections": [
+                    {
+                        "name": "Rescue Shiki Bonus Slot",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Hockomonkey Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Hockomonkey Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Hockomonkey Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Hockomonkey Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Skull Noise Reward",
+                "sections": [
+                    {
+                        "name": "Skull Noise Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "First District Rampant Fantasy",
+                "sections": [
+                    {
+                        "name": "First District Rampant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "First District Potion",
+                "sections": [
+                    {
+                        "name": "First District Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Second District Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Balloon",
+                "sections": [
+                    {
+                        "name": "Second District Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Second District Yoggy Ram Recipe",
+                "sections": [
+                    {
+                        "name": "Second District Yoggy Ram Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Third District Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Third District Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Third District Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Third District Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Potion",
+                "sections": [
+                    {
+                        "name": "Fourth District Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Intrepid Figment",
+                "sections": [
+                    {
+                        "name": "Fourth District Intrepid Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Balloon",
+                "sections": [
+                    {
+                        "name": "Fourth District Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Fourth District Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Troubling Fantasy",
+                "sections": [
+                    {
+                        "name": "Fifth District Troubling Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Fifth District Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fifth District Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Fifth District Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Vibrant Fantasy",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Vibrant Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Garden Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Paint Gun: Green",
+                "sections": [
+                    {
+                        "name": "Garden Paint Gun: Green",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Royal Cake",
+                "sections": [
+                    {
+                        "name": "Garden Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Garden Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Garden Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Second Potion",
+                "sections": [
+                    {
+                        "name": "Fourth District Second Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Fourth District Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Second Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Fourth District Second Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fourth District Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Fourth District Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fountain Plaza Blizzard Edge",
+                "sections": [
+                    {
+                        "name": "Fountain Plaza Blizzard Edge",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Troubling Fantasy",
+                "sections": [
+                    {
+                        "name": "Back Streets Troubling Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Thunder",
+                "sections": [
+                    {
+                        "name": "Back Streets Thunder",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Potion",
+                "sections": [
+                    {
+                        "name": "Back Streets Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Back Streets Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Intrepid Figment",
+                "sections": [
+                    {
+                        "name": "Back Streets Intrepid Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Paint Gun: Sky Blue",
+                "sections": [
+                    {
+                        "name": "Back Streets Paint Gun: Sky Blue",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Back Streets Second Potion",
+                "sections": [
+                    {
+                        "name": "Back Streets Second Potion",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Traverse Town 2 [Sora]",
+        "access_rules": ["world_traverse_town_sora:2"],
+        "children": [
+            {
+                "name": "Sliding Sidewinder Reward",
+                "sections": [
+                    {
+                        "name": "Sliding Sidewinder Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Knockout Punch Reward",
+                "sections": [
+                    {
+                        "name": "Knockout Punch Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Boss Gauntlet Reward",
+                "sections": [
+                    {
+                        "name": "Boss Gauntlet Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ultima Weapon Reward",
+                "sections": [
+                    {
+                        "name": "Ultima Weapon Reward",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Traverse Town 2 [Riku]",
+        "access_rules": ["world_traverse_town_riku:2"],
+        "children": [
+            {
+                "name": "Cera Terror Battle Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Cera Terror Battle Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cera Terror Battle Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Cera Terror Battle Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cera Terror Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Cera Terror Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Knockout Punch Reward",
+                "sections": [
+                    {
+                        "name": "Knockout Punch Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ultima Weapon Reward",
+                "sections": [
+                    {
+                        "name": "Ultima Weapon Reward",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "La Cite des Cloches [Sora]",
+        "access_rules": ["world_la_cite_des_cloches_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Zolephant Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Zolephant Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Frollo Warns Quasimodo Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Frollo Warns Quasimodo Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flower Fight Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Flower Fight Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Wargoyle Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Wargoyle Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chronicle Bell Reward",
+                "sections": [
+                    {
+                        "name": "Chronicle Bell Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chronicle BBS Reward",
+                "sections": [
+                    {
+                        "name": "Chronicle BBS Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Square Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Balloon",
+                "sections": [
+                    {
+                        "name": "Square Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Square Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Potion",
+                "sections": [
+                    {
+                        "name": "Square Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Water Barrel",
+                "sections": [
+                    {
+                        "name": "Nave Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Royal Cake",
+                "sections": [
+                    {
+                        "name": "Nave Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Nave Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Nave Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Potion",
+                "sections": [
+                    {
+                        "name": "Nave Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave 2nd Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Nave 2nd Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Dulcet Figment",
+                "sections": [
+                    {
+                        "name": "Bell Tower Dulcet Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Bell Tower Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Balloon",
+                "sections": [
+                    {
+                        "name": "Bell Tower Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower 2nd Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Bell Tower 2nd Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Sparkra",
+                "sections": [
+                    {
+                        "name": "Town Sparkra",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Town Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Lofty Figment",
+                "sections": [
+                    {
+                        "name": "Town Lofty Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Town Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Wheeflower Recipe",
+                "sections": [
+                    {
+                        "name": "Town Wheeflower Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Town Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Troubling Fancy",
+                "sections": [
+                    {
+                        "name": "Town Troubling Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Bridge Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Paint Gun: Red",
+                "sections": [
+                    {
+                        "name": "Bridge Paint Gun: Red",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Bridge Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Potion",
+                "sections": [
+                    {
+                        "name": "Bridge Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Outskirts Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Noble Figment",
+                "sections": [
+                    {
+                        "name": "Outskirts Noble Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Balloon",
+                "sections": [
+                    {
+                        "name": "Outskirts Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Potion",
+                "sections": [
+                    {
+                        "name": "Outskirts Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Outskirts Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Graveyard Gate Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Graveyard Gate Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Graveyard Gate Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Graveyard Gate Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Graveyard Gate Potion",
+                "sections": [
+                    {
+                        "name": "Graveyard Gate Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Sleepra",
+                "sections": [
+                    {
+                        "name": "Tunnels Sleepra",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Tunnels Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Catanuki Recipe",
+                "sections": [
+                    {
+                        "name": "Tunnels Catanuki Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Paint Gun: Purple",
+                "sections": [
+                    {
+                        "name": "Tunnels Paint Gun: Purple",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Tunnels Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Old Graveyard Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Old Graveyard Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Water Barrel",
+                "sections": [
+                    {
+                        "name": "Catacombs Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Fire Windmill",
+                "sections": [
+                    {
+                        "name": "Catacombs Fire Windmill",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Toximander Recipe",
+                "sections": [
+                    {
+                        "name": "Catacombs Toximander Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Royal Cake",
+                "sections": [
+                    {
+                        "name": "Catacombs Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Catacombs Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Catacombs Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Catacombs Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Court of Miracles Thunder Dash",
+                "sections": [
+                    {
+                        "name": "Court of Miracles Thunder Dash",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Court of Miracles Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Court of Miracles Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Court of Miracles Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Court of Miracles Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tunnels Noble Fantasy",
+                "sections": [
+                    {
+                        "name": "Tunnels Noble Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "La Cite des Cloches [Riku]",
+        "access_rules": ["world_la_cite_des_cloches_riku"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Dark Obsession Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Dark Obsession Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sonic Impact Reward",
+                "sections": [
+                    {
+                        "name": "Sonic Impact Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Wargoyle Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Wargoyle Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Wargoyle Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Wargoyle Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chronicle: Kingdom Hearts Reward",
+                "sections": [
+                    {
+                        "name": "Chronicle: Kingdom Hearts Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Guardian Bell Reward",
+                "sections": [
+                    {
+                        "name": "Guardian Bell Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Balloon",
+                "sections": [
+                    {
+                        "name": "Square Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Square Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Square Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Square Potion",
+                "sections": [
+                    {
+                        "name": "Square Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Nave Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Fira",
+                "sections": [
+                    {
+                        "name": "Nave Fira",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Nave Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Rampant Figment",
+                "sections": [
+                    {
+                        "name": "Nave Rampant Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Paint Gun: Yellow",
+                "sections": [
+                    {
+                        "name": "Nave Paint Gun: Yellow",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Second Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Nave Second Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Royal Cake",
+                "sections": [
+                    {
+                        "name": "Bell Tower Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Dulcet Figment",
+                "sections": [
+                    {
+                        "name": "Bell Tower Dulcet Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Bell Tower Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bell Tower Second Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Bell Tower Second Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Town Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Town Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Water Barrel",
+                "sections": [
+                    {
+                        "name": "Town Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Noble Fantasy",
+                "sections": [
+                    {
+                        "name": "Town Noble Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Potion",
+                "sections": [
+                    {
+                        "name": "Town Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Town Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Town Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Town Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Balloon",
+                "sections": [
+                    {
+                        "name": "Bridge Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Bridge Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Bridge Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Potion",
+                "sections": [
+                    {
+                        "name": "Bridge Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Outskirts Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Potion",
+                "sections": [
+                    {
+                        "name": "Outskirts Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Outskirts Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Paint Gun: Purple",
+                "sections": [
+                    {
+                        "name": "Outskirts Paint Gun: Purple",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Outskirts Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Outskirts Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windmill Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Windmill Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windmill Sliding Crescent",
+                "sections": [
+                    {
+                        "name": "Windmill Sliding Crescent",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windmill Water Barrel",
+                "sections": [
+                    {
+                        "name": "Windmill Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windmill Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Windmill Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Nave Lord Kyroo Fight",
+                "sections": [
+                    {
+                        "name": "Nave Lord Kyroo Fight",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Grid [Sora]",
+        "access_rules": ["world_the_grid_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Counter Rush Reward",
+                "sections": [
+                    {
+                        "name": "Counter Rush Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rinzler Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Rinzler Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rinzler Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Rinzler Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dual Disc",
+                "sections": [
+                    {
+                        "name": "Dual Disc",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Panacea",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Lofty Fantasy",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Lofty Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Eaglider Recipe",
+                "sections": [
+                    {
+                        "name": "Docks Eaglider Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Docks Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Paint Gun: Black",
+                "sections": [
+                    {
+                        "name": "Docks Paint Gun: Black",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Panacea",
+                "sections": [
+                    {
+                        "name": "Docks Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Docks Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Balloon",
+                "sections": [
+                    {
+                        "name": "Docks Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "City Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Troubling Fancy",
+                "sections": [
+                    {
+                        "name": "City Troubling Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Potion",
+                "sections": [
+                    {
+                        "name": "City Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Water Barrel",
+                "sections": [
+                    {
+                        "name": "City Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "City Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Fleeting Figment",
+                "sections": [
+                    {
+                        "name": "Throughput Fleeting Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Circle Raid",
+                "sections": [
+                    {
+                        "name": "Throughput Circle Raid",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Dulcet Figment",
+                "sections": [
+                    {
+                        "name": "Throughput Dulcet Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Royal Cake",
+                "sections": [
+                    {
+                        "name": "Throughput Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Confetti Candy",
+                "sections": [
+                    {
+                        "name": "Throughput Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Potion",
+                "sections": [
+                    {
+                        "name": "Throughput Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Bridge Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Bridge Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Cyber Yog Recipe",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Cyber Yog Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Ice Dream Cone",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Ice Dream Cone",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Paint Gun: Green",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Paint Gun: Green",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Wondrous Figment",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Wondrous Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Fleeting Figment",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Fleeting Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Balloon",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Panacea",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Balloonra",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Balloonra",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Water Barrel",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The Grid [Riku]",
+        "access_rules": ["world_the_grid_riku"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Light Cycle Bonus Slot",
+                "sections": [
+                    {
+                        "name": "Light Cycle Bonus Slot",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Father and Son Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Father and Son Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Dream Eater Fight Bonus Slot",
+                "sections": [
+                    {
+                        "name": "City Dream Eater Fight Bonus Slot",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Stolen Disk Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Stolen Disk Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Commantis Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Commantis Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dual Disc Reward",
+                "sections": [
+                    {
+                        "name": "Dual Disc Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Balloon",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Panacea",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Fleeting Figment",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Fleeting Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 1F Peepsta Hoo Recipe",
+                "sections": [
+                    {
+                        "name": "Rectifier 1F Peepsta Hoo Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Docks Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Counter Aura",
+                "sections": [
+                    {
+                        "name": "Docks Counter Aura",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Docks Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Docks Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Potion",
+                "sections": [
+                    {
+                        "name": "Docks Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Docks Balloon",
+                "sections": [
+                    {
+                        "name": "Docks Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Confetti Candy",
+                "sections": [
+                    {
+                        "name": "City Confetti Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Thundara",
+                "sections": [
+                    {
+                        "name": "City Thundara",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Potion",
+                "sections": [
+                    {
+                        "name": "City Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Fleeting Figment",
+                "sections": [
+                    {
+                        "name": "City Fleeting Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "City Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "City Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Royal Cake",
+                "sections": [
+                    {
+                        "name": "Throughput Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Wondrous Figment",
+                "sections": [
+                    {
+                        "name": "Throughput Wondrous Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Noble Fantasy",
+                "sections": [
+                    {
+                        "name": "Throughput Noble Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Throughput Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Shield Cookie",
+                "sections": [
+                    {
+                        "name": "Throughput Shield Cookie",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Throughput Potion",
+                "sections": [
+                    {
+                        "name": "Throughput Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Panacea",
+                "sections": [
+                    {
+                        "name": "Bridge Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Bridge Water Barrel",
+                "sections": [
+                    {
+                        "name": "Bridge Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Gravity Strike",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Gravity Strike",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Noble Figment",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Noble Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Potion",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Rectifier 2F Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Rectifier 2F Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Panacea",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Troubling Fancy",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Troubling Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Wondrous Figment",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Wondrous Figment",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Paint Gun: White",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Paint Gun: White",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Solar Sailer Royal Cake",
+                "sections": [
+                    {
+                        "name": "Solar Sailer Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Portal Stairs Paint Gun: Black",
+                "sections": [
+                    {
+                        "name": "Portal Stairs Paint Gun: Black",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Portal Stairs Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Portal Stairs Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Portal Stairs Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Portal Stairs Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prankster's Paradise [Sora]",
+        "access_rules": ["world_pranksters_paradise_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: When World's Dream Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: When World's Dream Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Pinocchio Lies Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Pinocchio Lies Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Found Pinocchio HP Bonus",
+                "sections": [
+                    {
+                        "name": "Found Pinocchio HP Bonus",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Jestabocky Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Jestabocky Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "High Jump Reward",
+                "sections": [
+                    {
+                        "name": "High Jump Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Nobodies Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Nobodies Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Organization XIII Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Organization XIII Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chronicle: KH2 Reward",
+                "sections": [
+                    {
+                        "name": "Chronicle: KH2 Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: In Search of Monstro Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: In Search of Monstro Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chill Clawbster Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Chill Clawbster Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ferris Gear Reward",
+                "sections": [
+                    {
+                        "name": "Ferris Gear Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Blizzara",
+                "sections": [
+                    {
+                        "name": "Amusement Park Blizzara",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Amusement Park Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Balloon",
+                "sections": [
+                    {
+                        "name": "Amusement Park Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Amusement Park Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Malleable Fantasy",
+                "sections": [
+                    {
+                        "name": "Amusement Park Malleable Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Paint Gun: Yellow",
+                "sections": [
+                    {
+                        "name": "Amusement Park Paint Gun: Yellow",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Amusement Park Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "Amusement Park Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Amusement Park Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Floor Panacea",
+                "sections": [
+                    {
+                        "name": "Ocean Floor Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Floor Lofty Fantasy",
+                "sections": [
+                    {
+                        "name": "Ocean Floor Lofty Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Floor Paint Gun: Sky Blue",
+                "sections": [
+                    {
+                        "name": "Ocean Floor Paint Gun: Sky Blue",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Floor Zero Gravira",
+                "sections": [
+                    {
+                        "name": "Ocean Floor Zero Gravira",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Depths Rampant Fancy",
+                "sections": [
+                    {
+                        "name": "Ocean Depths Rampant Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Depths Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Ocean Depths Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Depths Royal Cake",
+                "sections": [
+                    {
+                        "name": "Ocean Depths Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Depths Tatsu Steed Recipe",
+                "sections": [
+                    {
+                        "name": "Ocean Depths Tatsu Steed Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean Depths Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Ocean Depths Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Promontory Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Promontory Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Promontory Water Barrel",
+                "sections": [
+                    {
+                        "name": "Promontory Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Promontory Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Promontory Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windup Way Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "Windup Way Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windup Way Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Windup Way Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windup Way Aerial Slam",
+                "sections": [
+                    {
+                        "name": "Windup Way Aerial Slam",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windup Way Royal Cake",
+                "sections": [
+                    {
+                        "name": "Windup Way Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Windup Way Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Windup Way Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Circus Balloon",
+                "sections": [
+                    {
+                        "name": "Circus Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Circus Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Circus Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Circus Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Circus Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Circus Rampant Fancy",
+                "sections": [
+                    {
+                        "name": "Circus Rampant Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Amusement Park Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Amusement Park Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Promontory Lord Kyroo Fight",
+                "sections": [
+                    {
+                        "name": "Promontory Lord Kyroo Fight",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Prankster's Paradise [Riku]",
+        "access_rules": ["world_pranksters_paradise_riku"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chronicle: Chain of Memories Reward",
+                "sections": [
+                    {
+                        "name": "Chronicle: Chain of Memories Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Char Clobster Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Char Clobster Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Ocean's Rage Reward",
+                "sections": [
+                    {
+                        "name": "Ocean's Rage Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Mouth Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Mouth Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Mouth Paint Gun: Blue",
+                "sections": [
+                    {
+                        "name": "Monstro: Mouth Paint Gun: Blue",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Mouth Balloon",
+                "sections": [
+                    {
+                        "name": "Monstro: Mouth Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Mouth Panacea",
+                "sections": [
+                    {
+                        "name": "Monstro: Mouth Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Belly Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Monstro: Belly Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Belly Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Belly Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Belly Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Belly Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Belly Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Monstro: Belly Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Belly Collision Magnet",
+                "sections": [
+                    {
+                        "name": "Monstro: Belly Collision Magnet",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Sir Kyroo Recipe",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Sir Kyroo Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Charming Fantasy",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Charming Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Mini",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Mini",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Second Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Second Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Cavity Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Monstro: Cavity Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Cavity Royal Cake",
+                "sections": [
+                    {
+                        "name": "Monstro: Cavity Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Cavity Water Barrel",
+                "sections": [
+                    {
+                        "name": "Monstro: Cavity Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Cavity Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Monstro: Cavity Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Cavity Panacea",
+                "sections": [
+                    {
+                        "name": "Monstro: Cavity Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Mouth Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Monstro: Mouth Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Monstro: Gullet Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Monstro: Gullet Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Country of the Musketeers [Sora]",
+        "access_rules": ["world_country_of_the_musketeers_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Overnight Musketeers Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Overnight Musketeers Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tyranto Rex Recipe Reward",
+                "sections": [
+                    {
+                        "name": "Tyranto Rex Recipe Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Slide Roll Reward",
+                "sections": [
+                    {
+                        "name": "Slide Roll Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Pete Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Pete Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "All For One Reward",
+                "sections": [
+                    {
+                        "name": "All For One Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Theatre Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Theatre Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Theatre Dulcet Fancy",
+                "sections": [
+                    {
+                        "name": "Theatre Dulcet Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "The Opera Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Hi-Potion",
+                "sections": [
+                    {
+                        "name": "The Opera Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Block-It Chocolate 2",
+                "sections": [
+                    {
+                        "name": "The Opera Block-It Chocolate 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Mont Saint-Michel Fleeting Fantasy",
+                "sections": [
+                    {
+                        "name": "Mont Saint-Michel Fleeting Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Mont Saint-Michel Sparkga",
+                "sections": [
+                    {
+                        "name": "Mont Saint-Michel Sparkga",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Mont Saint-Michel Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Mont Saint-Michel Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Mont Saint-Michel Royal Cake",
+                "sections": [
+                    {
+                        "name": "Mont Saint-Michel Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Road Firaga",
+                "sections": [
+                    {
+                        "name": "Tower Road Firaga",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Road Dream Candy",
+                "sections": [
+                    {
+                        "name": "Tower Road Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Road Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "Tower Road Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Tower Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Tower Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Tower Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Block-It Chocolate 3",
+                "sections": [
+                    {
+                        "name": "Dungeon Block-It Chocolate 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Sonic Blade",
+                "sections": [
+                    {
+                        "name": "Dungeon Sonic Blade",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Fleeting Fancy",
+                "sections": [
+                    {
+                        "name": "Dungeon Fleeting Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Chef Kyroo Recipe",
+                "sections": [
+                    {
+                        "name": "Dungeon Chef Kyroo Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Water Barrel",
+                "sections": [
+                    {
+                        "name": "Dungeon Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Dungeon Royal Cake",
+                "sections": [
+                    {
+                        "name": "Dungeon Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Training Yard Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Training Yard Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Training Yard Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Training Yard Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Training Yard Paint Gun: Sky Blue",
+                "sections": [
+                    {
+                        "name": "Training Yard Paint Gun: Sky Blue",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Shore Paint Gun: Blue",
+                "sections": [
+                    {
+                        "name": "Shore Paint Gun: Blue",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Shore Dream Candy",
+                "sections": [
+                    {
+                        "name": "Shore Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cell Tornado Strike",
+                "sections": [
+                    {
+                        "name": "Cell Tornado Strike",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Country of the Musketeers [Riku]",
+        "access_rules": ["world_country_of_the_musketeers_riku"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Bon Journey Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Bon Journey Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Stage Gadget Reward",
+                "sections": [
+                    {
+                        "name": "Stage Gadget Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Holey Moley Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Holey Moley Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Slide Reward",
+                "sections": [
+                    {
+                        "name": "Shadow Slide Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Shadow Strike Reward",
+                "sections": [
+                    {
+                        "name": "Shadow Strike Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "All For One Reward",
+                "sections": [
+                    {
+                        "name": "All For One Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Water Barrel",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Royal Cake",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Shadowbreaker",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Shadowbreaker",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Grand Lobby Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Grand Lobby Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Theatre Confetti Candy 2",
+                "sections": [
+                    {
+                        "name": "Theatre Confetti Candy 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Theatre Balloon",
+                "sections": [
+                    {
+                        "name": "Theatre Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Hi-Potion",
+                "sections": [
+                    {
+                        "name": "The Opera Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Shield Cookie 2",
+                "sections": [
+                    {
+                        "name": "The Opera Shield Cookie 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Panacea",
+                "sections": [
+                    {
+                        "name": "The Opera Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "The Opera Dream Candy",
+                "sections": [
+                    {
+                        "name": "The Opera Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Green Room Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Prickly Fantasy",
+                "sections": [
+                    {
+                        "name": "Green Room Prickly Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Fleeting Fantasy",
+                "sections": [
+                    {
+                        "name": "Green Room Fleeting Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Shield Cookie 3",
+                "sections": [
+                    {
+                        "name": "Green Room Shield Cookie 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Green Room Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Blizzaga",
+                "sections": [
+                    {
+                        "name": "Machine Room Blizzaga",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Ducky Goose Recipe",
+                "sections": [
+                    {
+                        "name": "Machine Room Ducky Goose Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Ice Dream Cone 2",
+                "sections": [
+                    {
+                        "name": "Machine Room Ice Dream Cone 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Machine Room Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Royal Cake",
+                "sections": [
+                    {
+                        "name": "Backstage Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Fleeting Fantasy",
+                "sections": [
+                    {
+                        "name": "Backstage Fleeting Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Dream Candy",
+                "sections": [
+                    {
+                        "name": "Backstage Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Staggerceps Recipe",
+                "sections": [
+                    {
+                        "name": "Backstage Staggerceps Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Stop",
+                "sections": [
+                    {
+                        "name": "Green Room Stop",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Green Room Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Green Room Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Green Room Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Hi-Potion",
+                "sections": [
+                    {
+                        "name": "Machine Room Hi-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Machine Room Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Machine Room Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Backstage Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Backstage Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Backstage Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Symphony of Sorcery [Sora]",
+        "access_rules": ["world_symphony_of_sorcery_sora"],
+        "children": [
+            {
+                "name": "Secret Portal",
+                "sections": [
+                    {
+                        "name": "Secret Portal",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Flashback: Sorcerer's Apprentice Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: Sorcerer's Apprentice Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Double Impact Reward",
+                "sections": [
+                    {
+                        "name": "Double Impact Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Spellican Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Spellican Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Spellican Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Spellican Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Counterpoint Reward",
+                "sections": [
+                    {
+                        "name": "Counterpoint Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Entrance Dream Candy",
+                "sections": [
+                    {
+                        "name": "Tower Entrance Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Block-It Chocolate 3",
+                "sections": [
+                    {
+                        "name": "Tower Block-It Chocolate 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Elixir",
+                "sections": [
+                    {
+                        "name": "Tower Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Glide",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Glide",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Intrepid Fantasy",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Intrepid Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Prism Windmill",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Prism Windmill",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Paint Gun: White",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Paint Gun: White",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Elixir",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glen Tornado",
+                "sections": [
+                    {
+                        "name": "Glen Tornado",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glen Royal Cake",
+                "sections": [
+                    {
+                        "name": "Glen Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glen Intrepid Fantasy",
+                "sections": [
+                    {
+                        "name": "Glen Intrepid Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glen Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Glen Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glen Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Glen Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Block-It Chocolate 3",
+                "sections": [
+                    {
+                        "name": "Fields Block-It Chocolate 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Epic Fantasy",
+                "sections": [
+                    {
+                        "name": "Fields Epic Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Electricorn Recipe",
+                "sections": [
+                    {
+                        "name": "Fields Electricorn Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Triple Plasma",
+                "sections": [
+                    {
+                        "name": "Fields Triple Plasma",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Panacea",
+                "sections": [
+                    {
+                        "name": "Fields Panacea",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fields Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Fields Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Cloudwalk Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Cloudwalk Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Symphony of Sorcery [Riku]",
+        "access_rules": ["world_symphony_of_sorcery_riku"],
+        "children": [
+            {
+                "name": "Flashback: A Magical Mishap Reward",
+                "sections": [
+                    {
+                        "name": "Flashback: A Magical Mishap Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chernobog Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Chernobog Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Chernobog Bonus Slot 2",
+                "sections": [
+                    {
+                        "name": "Chernobog Bonus Slot 2",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Counterpoint Reward",
+                "sections": [
+                    {
+                        "name": "Counterpoint Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Entrance Water Barrel",
+                "sections": [
+                    {
+                        "name": "Tower Entrance Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Royal Cake",
+                "sections": [
+                    {
+                        "name": "Tower Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Tower Dream Candy",
+                "sections": [
+                    {
+                        "name": "Tower Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Zero Graviza",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Zero Graviza",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Shield Cookie 3",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Shield Cookie 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Paint Gun: Green",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Paint Gun: Green",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Golden Wood Elixir",
+                "sections": [
+                    {
+                        "name": "Golden Wood Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Golden Wood Intrepid Fantasy",
+                "sections": [
+                    {
+                        "name": "Golden Wood Intrepid Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Golden Wood Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Golden Wood Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Ice Barrage",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Ice Barrage",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Block-It Chocolate",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Block-It Chocolate",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Golden Wood Paint Gun: Red",
+                "sections": [
+                    {
+                        "name": "Golden Wood Paint Gun: Red",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Golden Wood Ryu Dragon Recipe",
+                "sections": [
+                    {
+                        "name": "Golden Wood Ryu Dragon Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Intrepid Fancy",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Intrepid Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Dulcet Fancy",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Dulcet Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Snowgleam Wood Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Snowgleam Wood Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Moonlight Wood Lord Kyroo Fight",
+                "sections": [
+                    {
+                        "name": "Moonlight Wood Lord Kyroo Fight",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The World That Never Was [Sora]",
+        "access_rules": ["world_the_world_that_never_was_sora"],
+        "children": [
+            {
+                "name": "Xemnas Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Xemnas Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Recusant's Sigil Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Recusant's Sigil Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Glossary: Hearts Tied to Sora Reward",
+                "sections": [
+                    {
+                        "name": "Glossary: Hearts Tied to Sora Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Shield Cookie 3",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Shield Cookie 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Dulcet Fantasy",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Dulcet Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Savage Fantasy",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Savage Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Salvation",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Salvation",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Elixir",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Dream Candy",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Water Barrel",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Water Barrel",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Avenue to Dreams Drak Quack Recipe",
+                "sections": [
+                    {
+                        "name": "Avenue to Dreams Drak Quack Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Elixir",
+                "sections": [
+                    {
+                        "name": "Contorted City Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Block-It Chocolate 3",
+                "sections": [
+                    {
+                        "name": "Contorted City Block-It Chocolate 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Shield Cookie 3",
+                "sections": [
+                    {
+                        "name": "Contorted City Shield Cookie 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Contorted City Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Wondrous Fantasy",
+                "sections": [
+                    {
+                        "name": "Contorted City Wondrous Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Contorted City Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Contorted City Ars Arcanum",
+                "sections": [
+                    {
+                        "name": "Contorted City Ars Arcanum",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "The World That Never Was [Riku]",
+        "access_rules": ["world_the_world_that_never_was_riku"],
+        "children": [
+            {
+                "name": "Ansem II Bonus Slot 1",
+                "sections": [
+                    {
+                        "name": "Ansem II Bonus Slot 1",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Young Xehanort Defeated",
+                "sections": [
+                    {
+                        "name": "Young Xehanort Defeated",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Armored Ventus Nightmare Defeated",
+                "sections": [
+                    {
+                        "name": "Armored Ventus Nightmare Defeated",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Dream Candy",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Elixir",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Confetti Candy 3",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Confetti Candy 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Dulcet Fantasy",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Dulcet Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Dark Splicer",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Dark Splicer",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Second Dream Candy",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Second Dream Candy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Walk of Delusions Ice Dream Cone 3",
+                "sections": [
+                    {
+                        "name": "Walk of Delusions Ice Dream Cone 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Walk of Delusions Drop-Me-Not",
+                "sections": [
+                    {
+                        "name": "Walk of Delusions Drop-Me-Not",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Walk of Delusions Lofty Fantasy",
+                "sections": [
+                    {
+                        "name": "Walk of Delusions Lofty Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Spark Raid",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Spark Raid",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Intrepid Fancy",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Intrepid Fancy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Royal Cake",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Royal Cake",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Block-It Chocolate 3",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Block-It Chocolate 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Mega-Potion",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Mega-Potion",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Elixir",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Skelterwild Recipe",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Skelterwild Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Candy Goggles",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Candy Goggles",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Wondrous Fantasy",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Wondrous Fantasy",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Paint Gun: Black",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Paint Gun: Black",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Shield Cookie 3",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Shield Cookie 3",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Verge of Chaos Second Elixir",
+                "sections": [
+                    {
+                        "name": "Verge of Chaos Second Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Balloon",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Balloon",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Fact Within Fiction Elixir",
+                "sections": [
+                    {
+                        "name": "Fact Within Fiction Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Second Elixir",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Second Elixir",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Keeba Tiger Recipe",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Keeba Tiger Recipe",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Curaga",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Curaga",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Doubleflight",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Doubleflight",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Delusive Beginning Third Elixir",
+                "sections": [
+                    {
+                        "name": "Delusive Beginning Third Elixir",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "World Map [Sora]",
+        "children": [
+            {
+                "name": "Unbound Keyblade Reward",
+                "sections": [
+                    {
+                        "name": "Unbound Keyblade Reward",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "All Superbosses Defeated",
+                "sections": [
+                    {
+                        "name": "All Superbosses Defeated",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Lord Kyroo Defeated",
+                "sections": [
+                    {
+                        "name": "Lord Kyroo Defeated",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "World Map [Riku]",
+        "children": [
+            {
+                "name": "Unbound Keyblade Reward",
+                "sections": [
+                    {
+                        "name": "Unbound Keyblade Reward",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Levels",
+        "children": [
+            {
+                "name": "Sora Level 02",
+                "sections": [
+                    {
+                        "name": "Sora Level 02",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 03",
+                "sections": [
+                    {
+                        "name": "Sora Level 03",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 04",
+                "sections": [
+                    {
+                        "name": "Sora Level 04",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 05",
+                "sections": [
+                    {
+                        "name": "Sora Level 05",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 06",
+                "sections": [
+                    {
+                        "name": "Sora Level 06",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 07",
+                "sections": [
+                    {
+                        "name": "Sora Level 07",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 08",
+                "sections": [
+                    {
+                        "name": "Sora Level 08",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 09",
+                "sections": [
+                    {
+                        "name": "Sora Level 09",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 10",
+                "sections": [
+                    {
+                        "name": "Sora Level 10",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 11",
+                "sections": [
+                    {
+                        "name": "Sora Level 11",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 12",
+                "sections": [
+                    {
+                        "name": "Sora Level 12",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 13",
+                "sections": [
+                    {
+                        "name": "Sora Level 13",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 14",
+                "sections": [
+                    {
+                        "name": "Sora Level 14",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 15",
+                "sections": [
+                    {
+                        "name": "Sora Level 15",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 16",
+                "sections": [
+                    {
+                        "name": "Sora Level 16",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 17",
+                "sections": [
+                    {
+                        "name": "Sora Level 17",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 18",
+                "sections": [
+                    {
+                        "name": "Sora Level 18",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 19",
+                "sections": [
+                    {
+                        "name": "Sora Level 19",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 20",
+                "sections": [
+                    {
+                        "name": "Sora Level 20",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 21",
+                "sections": [
+                    {
+                        "name": "Sora Level 21",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 22",
+                "sections": [
+                    {
+                        "name": "Sora Level 22",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 23",
+                "sections": [
+                    {
+                        "name": "Sora Level 23",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 24",
+                "sections": [
+                    {
+                        "name": "Sora Level 24",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 25",
+                "sections": [
+                    {
+                        "name": "Sora Level 25",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 26",
+                "sections": [
+                    {
+                        "name": "Sora Level 26",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 27",
+                "sections": [
+                    {
+                        "name": "Sora Level 27",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 28",
+                "sections": [
+                    {
+                        "name": "Sora Level 28",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 29",
+                "sections": [
+                    {
+                        "name": "Sora Level 29",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 30",
+                "sections": [
+                    {
+                        "name": "Sora Level 30",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 31",
+                "sections": [
+                    {
+                        "name": "Sora Level 31",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 32",
+                "sections": [
+                    {
+                        "name": "Sora Level 32",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 33",
+                "sections": [
+                    {
+                        "name": "Sora Level 33",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 34",
+                "sections": [
+                    {
+                        "name": "Sora Level 34",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 35",
+                "sections": [
+                    {
+                        "name": "Sora Level 35",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 36",
+                "sections": [
+                    {
+                        "name": "Sora Level 36",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 37",
+                "sections": [
+                    {
+                        "name": "Sora Level 37",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 38",
+                "sections": [
+                    {
+                        "name": "Sora Level 38",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 39",
+                "sections": [
+                    {
+                        "name": "Sora Level 39",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 40",
+                "sections": [
+                    {
+                        "name": "Sora Level 40",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 41",
+                "sections": [
+                    {
+                        "name": "Sora Level 41",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 42",
+                "sections": [
+                    {
+                        "name": "Sora Level 42",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 43",
+                "sections": [
+                    {
+                        "name": "Sora Level 43",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 44",
+                "sections": [
+                    {
+                        "name": "Sora Level 44",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 45",
+                "sections": [
+                    {
+                        "name": "Sora Level 45",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 46",
+                "sections": [
+                    {
+                        "name": "Sora Level 46",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 47",
+                "sections": [
+                    {
+                        "name": "Sora Level 47",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 48",
+                "sections": [
+                    {
+                        "name": "Sora Level 48",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 49",
+                "sections": [
+                    {
+                        "name": "Sora Level 49",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Sora Level 50",
+                "sections": [
+                    {
+                        "name": "Sora Level 50",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 02",
+                "sections": [
+                    {
+                        "name": "Riku Level 02",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 03",
+                "sections": [
+                    {
+                        "name": "Riku Level 03",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 04",
+                "sections": [
+                    {
+                        "name": "Riku Level 04",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 05",
+                "sections": [
+                    {
+                        "name": "Riku Level 05",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 06",
+                "sections": [
+                    {
+                        "name": "Riku Level 06",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 07",
+                "sections": [
+                    {
+                        "name": "Riku Level 07",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 08",
+                "sections": [
+                    {
+                        "name": "Riku Level 08",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 09",
+                "sections": [
+                    {
+                        "name": "Riku Level 09",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 10",
+                "sections": [
+                    {
+                        "name": "Riku Level 10",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 11",
+                "sections": [
+                    {
+                        "name": "Riku Level 11",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 12",
+                "sections": [
+                    {
+                        "name": "Riku Level 12",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 13",
+                "sections": [
+                    {
+                        "name": "Riku Level 13",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 14",
+                "sections": [
+                    {
+                        "name": "Riku Level 14",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 15",
+                "sections": [
+                    {
+                        "name": "Riku Level 15",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 16",
+                "sections": [
+                    {
+                        "name": "Riku Level 16",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 17",
+                "sections": [
+                    {
+                        "name": "Riku Level 17",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 18",
+                "sections": [
+                    {
+                        "name": "Riku Level 18",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 19",
+                "sections": [
+                    {
+                        "name": "Riku Level 19",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 20",
+                "sections": [
+                    {
+                        "name": "Riku Level 20",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 21",
+                "sections": [
+                    {
+                        "name": "Riku Level 21",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 22",
+                "sections": [
+                    {
+                        "name": "Riku Level 22",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 23",
+                "sections": [
+                    {
+                        "name": "Riku Level 23",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 24",
+                "sections": [
+                    {
+                        "name": "Riku Level 24",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 25",
+                "sections": [
+                    {
+                        "name": "Riku Level 25",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 26",
+                "sections": [
+                    {
+                        "name": "Riku Level 26",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 27",
+                "sections": [
+                    {
+                        "name": "Riku Level 27",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 28",
+                "sections": [
+                    {
+                        "name": "Riku Level 28",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 29",
+                "sections": [
+                    {
+                        "name": "Riku Level 29",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 30",
+                "sections": [
+                    {
+                        "name": "Riku Level 30",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 31",
+                "sections": [
+                    {
+                        "name": "Riku Level 31",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 32",
+                "sections": [
+                    {
+                        "name": "Riku Level 32",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 33",
+                "sections": [
+                    {
+                        "name": "Riku Level 33",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 34",
+                "sections": [
+                    {
+                        "name": "Riku Level 34",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 35",
+                "sections": [
+                    {
+                        "name": "Riku Level 35",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 36",
+                "sections": [
+                    {
+                        "name": "Riku Level 36",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 37",
+                "sections": [
+                    {
+                        "name": "Riku Level 37",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 38",
+                "sections": [
+                    {
+                        "name": "Riku Level 38",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 39",
+                "sections": [
+                    {
+                        "name": "Riku Level 39",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 40",
+                "sections": [
+                    {
+                        "name": "Riku Level 40",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 41",
+                "sections": [
+                    {
+                        "name": "Riku Level 41",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 42",
+                "sections": [
+                    {
+                        "name": "Riku Level 42",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 43",
+                "sections": [
+                    {
+                        "name": "Riku Level 43",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 44",
+                "sections": [
+                    {
+                        "name": "Riku Level 44",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 45",
+                "sections": [
+                    {
+                        "name": "Riku Level 45",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 46",
+                "sections": [
+                    {
+                        "name": "Riku Level 46",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 47",
+                "sections": [
+                    {
+                        "name": "Riku Level 47",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 48",
+                "sections": [
+                    {
+                        "name": "Riku Level 48",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 49",
+                "sections": [
+                    {
+                        "name": "Riku Level 49",
+                        "item_count": 1
+                    }
+                ]
+            },
+            {
+                "name": "Riku Level 50",
+                "sections": [
+                    {
+                        "name": "Riku Level 50",
+                        "item_count": 1
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+{
+    "shared_item_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "10, 10",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "world_traverse_town_sora",
+                                "world_traverse_town_riku"
+                            ],
+                            [
+                                "world_la_cite_des_cloches_sora",
+                                "world_la_cite_des_cloches_riku"
+                            ],
+                            ["world_the_grid_sora", "world_the_grid_riku"],
+                            [
+                                "world_pranksters_paradise_sora",
+                                "world_pranksters_paradise_riku"
+                            ],
+                            [
+                                "world_country_of_the_musketeers_sora",
+                                "world_country_of_the_musketeers_riku"
+                            ],
+                            [
+                                "world_symphony_of_sorcery_sora",
+                                "world_symphony_of_sorcery_riku"
+                            ],
+                            [
+                                "world_the_world_that_never_was_sora",
+                                "world_the_world_that_never_was_riku"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

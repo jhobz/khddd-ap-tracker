@@ -1,0 +1,65 @@
+[
+    {
+        "name": "TWTNW (Castle That Never Was)",
+        "location_size": 36,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Castle_That_Never_Was)_TWTNW_KH3DHD.png"
+    },
+    {
+        "name": "Country of the Musketeers",
+        "location_size": 42,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Country_of_the_Musketeers)_KH3D.png"
+    },
+    {
+        "name": "TWTNW (Dark City)",
+        "location_size": 24,
+        "location_border_thickness": 1,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Dark_City)_TWTNW_KH3DHD.png"
+    },
+    {
+        "name": "La Cité des Cloches",
+        "location_size": 42,
+        "location_border_thickness": 4,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(La_Cité_des_Cloches)_KH3DHD.png"
+    },
+    {
+        "name": "Prankster's Paradise (Monstro)",
+        "location_size": 42,
+        "location_border_thickness": 4,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Monstro)_PP_KH3DHD.png"
+    },
+    {
+        "name": "Prankster's Paradise",
+        "location_size": 28,
+        "location_border_thickness": 1,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Prankster's_Paradise)_KH3DHD.png"
+    },
+    {
+        "name": "Symphony of Sorcery",
+        "location_size": 32,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Symphony_of_Sorcery)_KH3D.png"
+    },
+    {
+        "name": "The Grid",
+        "location_size": 32,
+        "location_border_thickness": 2,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(The_Grid)_KH3DHD.png"
+    },
+    {
+        "name": "Traverse Town",
+        "location_size": 42,
+        "location_border_thickness": 4,
+        "location_shape": "rect",
+        "img": "images/maps/Minimap_(Traverse_Town)_KH3DHD.png"
+    }
+]
