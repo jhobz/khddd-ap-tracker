@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  release-please:
+    name: Bump version (Conventional Commits)
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run release-please
+        uses: googleapis/release-please-action@v4
+        with:
+          config-file: release-please-config.json
+          manifest-file: .release-please-manifest.json
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create source zip (exclude .github and gen)
+        run: |
+          zip -r khddd-ap-tracker.zip . -x '*.git*' '*.github*' 'gen/*'
+
+      - name: Get latest release tag
+        id: get_release
+        run: |
+          tag=$(git describe --tags --abbrev=0)
+          echo "::set-output name=tag::$tag"
+
+      - name: Upload source zip to release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.get_release.outputs.tag }}
+          files: khddd-ap-tracker.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
