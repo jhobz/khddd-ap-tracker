@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.2.0](https://github.com/jhobz/khddd-ap-tracker/compare/v0.1.5...v0.2.0) (2026-04-27)
+
+
+### ⚠ BREAKING CHANGES
+
+* add support for automatic updates ([#35](https://github.com/jhobz/khddd-ap-tracker/issues/35))
+
+### Features
+
+* add support for automatic updates ([#35](https://github.com/jhobz/khddd-ap-tracker/issues/35)) ([c6269bf](https://github.com/jhobz/khddd-ap-tracker/commit/c6269bf0ef64746d6c81a37cacd4b5d5d366e6ee))
+
 ## [0.1.5](https://github.com/jhobz/khddd-ap-tracker/compare/v0.1.4...v0.1.5) (2026-04-27)
 
 
