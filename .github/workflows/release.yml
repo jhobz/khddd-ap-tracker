@@ -13,6 +13,12 @@ jobs:
   release-please:
     name: Bump version (Conventional Commits)
     runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.release.outputs.version }}
+      tag_name: ${{ steps.release.outputs.tag_name }}
+      release_created: ${{ steps.release.outputs.release_created }}
+      artifact: khddd-ap-tracker.zip
+      changelog: ${{ steps.release.outputs.body }}
     steps:
       - name: Run release-please
         id: release
@@ -20,19 +26,71 @@ jobs:
         with:
           config-file: release-please-config.json
           manifest-file: .release-please-manifest.json
+
       - name: Checkout code
         uses: actions/checkout@v4
 
       - name: Create source zip (exclude .github and gen)
         if: ${{ steps.release.outputs.release_created == 'true' }}
         run: |
-          zip -r khddd-ap-tracker.zip . -x '*.git*' '*.github*' 'gen/*'
+          zip -r khddd-ap-tracker.zip . -x '*.git*' '*.github*' 'gen/*' '.luarc.json' '.release-please-manifest.json' 'release-please-config.json'
 
-      - name: Upload source zip to release
+      - name: Upload artifact
         if: ${{ steps.release.outputs.release_created == 'true' }}
-        uses: softprops/action-gh-release@v2
+        uses: actions/upload-artifact@v4
         with:
-          tag_name: ${{ steps.release.outputs.tag_name }}
-          files: khddd-ap-tracker.zip
+          name: pack-artifact
+          path: khddd-ap-tracker.zip
+          retention-days: 1
+
+      - name: Upload release artifact
+        if: ${{ steps.release.outputs.release_created == 'true' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release upload ${{ steps.release.outputs.tag_name }} khddd-ap-tracker.zip
+
+  autoupdate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    needs: release-please
+    if: ${{ needs.release-please.outputs.release_created == 'true' }}
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          ref: versions
+
+      - name: Download build artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: pack-artifact
+          path: khddd-ap-tracker.zip
+
+      - name: Get checksum
+        run: echo "sha256sum=$(sha256sum khddd-ap-tracker.zip | awk '{print $1}')" >>
+          $GITHUB_OUTPUT
+        id: checksum
+
+      - name: Git config
+        run: git config user.name "Automation" && git config user.email
+          "automation@localhost"
+
+      - name: Add to json
+        run: |-
+          jq '.versions |= [{
+            "package_version": "${{ needs.release-please.outputs.version }}",
+            "download_url": "https://github.com/${{ github.repository }}/releases/download/${{ needs.release-please.outputs.tag_name }}/khddd-ap-tracker.zip",
+            "sha256": "${{ steps.checksum.outputs.sha256sum }}",
+            "changelog": ["${{ needs.release-please.outputs.changelog }}"]
+          }] + .' versions.json > new_versions.json
+
+      - name: Move new versions in
+        run: mv new_versions.json versions.json
+
+      - name: Commit
+        run: |
+          git commit -am "chore(main): update versions.json for ${{ needs.release-please.outputs.tag_name }}"
+
+      - name: Push
+        run: git push origin main
