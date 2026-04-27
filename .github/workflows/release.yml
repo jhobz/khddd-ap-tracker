@@ -57,9 +57,8 @@ jobs:
     needs: release-please
     if: ${{ needs.release-please.outputs.release_created == 'true' }}
     steps:
-      - uses: actions/checkout@v5
-        with:
-          ref: versions
+      - name: Checkout code
+        uses: actions/checkout@v5
 
       - name: Download build artifact
         uses: actions/download-artifact@v4
