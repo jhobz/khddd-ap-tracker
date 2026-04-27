@@ -2332,8 +2332,8 @@
                 "map_locations": [
                     {
                         "map": "La Cité des Cloches [Riku]",
-                        "x": 342,
-                        "y": 962
+                        "x": 494,
+                        "y": 567
                     }
                 ]
             },
@@ -2347,8 +2347,8 @@
                 "map_locations": [
                     {
                         "map": "La Cité des Cloches [Riku]",
-                        "x": 494,
-                        "y": 567
+                        "x": 342,
+                        "y": 962
                     }
                 ]
             },
@@ -4058,6 +4058,13 @@
                     {
                         "name": "Portal Stairs Paint Gun: Black"
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Grid [Riku]",
+                        "x": 205,
+                        "y": 721
+                    }
                 ]
             },
             {
@@ -4066,6 +4073,13 @@
                     {
                         "name": "Portal Stairs Drop-Me-Not"
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Grid [Riku]",
+                        "x": 202,
+                        "y": 920
+                    }
                 ]
             },
             {
@@ -4073,6 +4087,13 @@
                 "sections": [
                     {
                         "name": "Portal Stairs Hi-Potion"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Grid [Riku]",
+                        "x": 163,
+                        "y": 1078
                     }
                 ]
             }
@@ -4842,11 +4863,6 @@
                         "map": "Prankster's Paradise (Monstro) [Riku]",
                         "x": 213,
                         "y": 1915
-                    },
-                    {
-                        "map": "Prankster's Paradise (Monstro) [Riku]",
-                        "x": 581,
-                        "y": 1769
                     }
                 ]
             },
@@ -4886,6 +4902,13 @@
                     {
                         "name": "Monstro: Gullet Mini"
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Prankster's Paradise (Monstro) [Riku]",
+                        "x": 517,
+                        "y": 1909
+                    }
                 ]
             },
             {
@@ -4908,6 +4931,13 @@
                 "sections": [
                     {
                         "name": "Monstro: Gullet Second Shield Cookie 2"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Prankster's Paradise (Monstro) [Riku]",
+                        "x": 581,
+                        "y": 1769
                     }
                 ]
             },
@@ -4936,8 +4966,8 @@
                 "map_locations": [
                     {
                         "map": "Prankster's Paradise (Monstro) [Riku]",
-                        "x": 96,
-                        "y": 880
+                        "x": 626,
+                        "y": 883
                     }
                 ]
             },
@@ -6145,6 +6175,13 @@
                     {
                         "name": "Tower Entrance Dream Candy"
                     }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Symphony of Sorcery [Sora]",
+                        "x": 302,
+                        "y": 698
+                    }
                 ]
             },
             {
@@ -6547,11 +6584,6 @@
                         "map": "Symphony of Sorcery [Riku]",
                         "x": 332,
                         "y": 1295
-                    },
-                    {
-                        "map": "Symphony of Sorcery [Sora]",
-                        "x": 302,
-                        "y": 698
                     }
                 ]
             },
