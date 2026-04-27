@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.5](https://github.com/jhobz/khddd-ap-tracker/compare/v0.1.4...v0.1.5) (2026-04-27)
+
+
+### Bug Fixes
+
+* various incorrect/missed locations ([#33](https://github.com/jhobz/khddd-ap-tracker/issues/33)) ([6f84461](https://github.com/jhobz/khddd-ap-tracker/commit/6f84461dde94c680e4bb3c61226771c15a830471))
+
 ## [0.1.4](https://github.com/jhobz/khddd-ap-tracker/compare/v0.1.3...v0.1.4) (2026-04-25)
 
 
