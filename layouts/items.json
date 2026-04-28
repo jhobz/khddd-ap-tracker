@@ -1,5 +1,5 @@
 {
-    "shared_item_grid": {
+    "worlds": {
         "type": "array",
         "orientation": "vertical",
         "margin": "0,0",
@@ -39,6 +39,29 @@
                                 "world_the_world_that_never_was_sora",
                                 "world_the_world_that_never_was_riku"
                             ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "items": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 5",
+                        "h_alignment": "left",
+                        "rows": [
+                            ["recusant_sigil"],
+                            ["meow_wow_recipe", "komory_bat_recipe"]
                         ]
                     }
                 ]

@@ -17,7 +17,16 @@
                             "dock": "top",
                             "content": {
                                 "type": "layout",
-                                "key": "shared_item_grid"
+                                "key": "worlds"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Items",
+                            "dock": "top",
+                            "content": {
+                                "type": "layout",
+                                "key": "items"
                             }
                         }
                     ]
