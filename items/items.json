@@ -1730,6 +1730,14 @@
         "codes": "tubguin_ace_recipe"
     },
     {
+        "name": "Total recipes collected",
+        "type": "consumable",
+        "min_quantity": 0,
+        "max_quantity": 54,
+        "img": "images/items/Recipe_KHII.png",
+        "codes": "recipe_total"
+    },
+    {
         "name": "Potion",
         "type": "toggle",
         "img": "images/items/toggle.png",
