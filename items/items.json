@@ -6,10 +6,10 @@
         "codes": "victory"
     },
     {
-        "name": "Recusant Sigil",
+        "name": "Recusant's Sigil",
         "type": "toggle",
         "img": "images/items/recusant_sigil.png",
-        "codes": "recusant_sigil"
+        "codes": "recusant_sigil,recusants_sigil"
     },
     {
         "name": "Instant Drop",
