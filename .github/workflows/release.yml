@@ -64,11 +64,11 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: pack-artifact
-          path: khddd-ap-tracker.zip
+          path: ./build
 
       - name: Get checksum
-        run: echo "sha256sum=$(sha256sum khddd-ap-tracker.zip | awk '{print $1}')" >>
-          $GITHUB_OUTPUT
+        run: |
+          echo "sha256sum=$(sha256sum ./build/khddd-ap-tracker.zip | awk '{print $1}')" >> $GITHUB_OUTPUT
         id: checksum
 
       - name: Git config
