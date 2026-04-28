@@ -60,7 +60,7 @@
                         "item_margin": "5, 5",
                         "h_alignment": "left",
                         "rows": [
-                            ["recusant_sigil"],
+                            ["recipe_total", "recusant_sigil"],
                             ["meow_wow_recipe", "komory_bat_recipe"]
                         ]
                     }
