@@ -1513,8 +1513,8 @@
                 "map_locations": [
                     {
                         "map": "La Cité des Cloches [Sora]",
-                        "x": 342,
-                        "y": 962
+                        "x": 406,
+                        "y": 120
                     }
                 ]
             },
@@ -1543,8 +1543,8 @@
                 "map_locations": [
                     {
                         "map": "La Cité des Cloches [Sora]",
-                        "x": 406,
-                        "y": 120
+                        "x": 342,
+                        "y": 962
                     }
                 ]
             },
