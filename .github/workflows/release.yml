@@ -56,6 +56,9 @@ jobs:
       contents: write
     needs: release-please
     if: ${{ needs.release-please.outputs.release_created == 'true' }}
+    # We use an environment variable here in order to have the shell escape the strings for us
+    env:
+      CHANGELOG_BODY: ${{ needs.release-please.outputs.changelog }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v5
@@ -81,7 +84,7 @@ jobs:
             "package_version": "${{ needs.release-please.outputs.version }}",
             "download_url": "https://github.com/${{ github.repository }}/releases/download/${{ needs.release-please.outputs.tag_name }}/khddd-ap-tracker.zip",
             "sha256": "${{ steps.checksum.outputs.sha256sum }}",
-            "changelog": ["${{ needs.release-please.outputs.changelog }}"]
+            "changelog": ["$CHANGELOG_BODY"]
           }] + .' versions.json > new_versions.json
 
       - name: Move new versions in
