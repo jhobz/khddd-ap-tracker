@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.1](https://github.com/jhobz/khddd-ap-tracker/compare/v0.2.0...v0.2.1) (2026-04-28)
+
+
+### Features
+
+* add Go Mode items to tracker layout ([#40](https://github.com/jhobz/khddd-ap-tracker/issues/40)) ([b7d61e7](https://github.com/jhobz/khddd-ap-tracker/commit/b7d61e753afac6da448f7f54258804d7172de5f9))
+* add recipe total, with auto-tracking ([#41](https://github.com/jhobz/khddd-ap-tracker/issues/41)) ([761990c](https://github.com/jhobz/khddd-ap-tracker/commit/761990cb8f0f18179064ea123b57f5f612522b22))
+
+
+### Bug Fixes
+
+* swap sora bell tower Drop-Me-Nots ([#38](https://github.com/jhobz/khddd-ap-tracker/issues/38)) ([6a7a87c](https://github.com/jhobz/khddd-ap-tracker/commit/6a7a87c0f34c5597d49ac7a32051202252e58b77))
+
 ## [0.2.0](https://github.com/jhobz/khddd-ap-tracker/compare/v0.1.5...v0.2.0) (2026-04-27)
 
 
