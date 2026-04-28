@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.3](https://github.com/jhobz/khddd-ap-tracker/compare/v0.2.2...v0.2.3) (2026-04-28)
+
+
+### Bug Fixes
+
+* typo in Recusant's Sigil ([#45](https://github.com/jhobz/khddd-ap-tracker/issues/45)) ([48c1458](https://github.com/jhobz/khddd-ap-tracker/commit/48c1458cc318c8fc2f20f4a218815bc9431ab4a5))
+
 ## [0.2.2](https://github.com/jhobz/khddd-ap-tracker/compare/v0.2.1...v0.2.2) (2026-04-28)
 
 
